@@ -1,2 +1,2 @@
 # 8-kyu-codewars-problems
-daily codewars problems practice
+A repository for all of the 8kyu problems from my daily codewars problem practice!
