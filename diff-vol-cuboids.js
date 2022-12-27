@@ -7,5 +7,9 @@
 function findDifference(a, b) {
     let cubeA= a.reduce((a,b)=>a*b)
     let cubeB= b.reduce((a,b)=>a*b)
-    return cubeA -cubeB
+    if (cubeA > cubeB){
+      return cubeA - cubeB
+    }else{
+      return cubeB - cubeA
+    }
    }
